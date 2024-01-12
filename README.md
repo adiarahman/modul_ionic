@@ -1,11 +1,36 @@
 # Modul Ionic
 Daftar Isi :
 A. Membuat Tampilan Project Ionic
-B. Membuat API dengan PHP
-C. [Menghubungkan Ionic Dengan API](#menghubungkan-api) 
+    - Membuat API dengan PHP
+    - [Menghubungkan Ionic Dengan API](#menghubungkan-api) 
 
 # PROJECT IONIC
-### 1. Installasi Ionic
+## 1. Installasi Ionic
 
+- asudhas
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
+- asdhasd
 
-C. [Menghubungkan Ionic Dengan API](#menghubungkan-api) 
+- asdhasd
+# Menghubungkan Ionic Dengan API
